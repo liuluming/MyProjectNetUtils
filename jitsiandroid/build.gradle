@@ -1,0 +1,75 @@
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        //applicationId "org.jitsi"
+        minSdkVersion 16
+        targetSdkVersion 25
+
+        ndk {
+            moduleName "jitsiandroid"
+        }
+        sourceSets.main{
+            jni.srcDirs=[]
+            jniLibs.srcDir 'src/main/libs'
+        }
+    }
+
+
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.0'
+    compile files('libs/bccontrib.jar')
+    compile files('libs/bouncycastle.jar')
+    compile files('libs/browserlauncher.jar')
+    compile files('libs/callhistory.jar')
+    compile files('libs/certificate.jar')
+    compile files('libs/commons-codec.jar')
+    compile files('libs/contactlist.jar')
+    compile files('libs/contactsource.jar')
+    compile files('libs/credentialsstorage.jar')
+    compile files('libs/defaultresources.jar')
+    compile files('libs/dnsservice.jar')
+    compile files('libs/filehistory.jar')
+    compile files('libs/globaldisplaydetails.jar')
+    compile files('libs/history.jar')
+    compile files('libs/httpclient.jar')
+    compile files('libs/httpcore.jar')
+    compile files('libs/httputil.jar')
+    compile files('libs/java-stubs.jar')
+    compile files('libs/libjitsi.jar')
+    compile files('libs/log4j-1.2.8.jar')
+    compile files('libs/metahistory.jar')
+    compile files('libs/msghistory.jar')
+    compile files('libs/muc.jar')
+    compile files('libs/netaddr.jar')
+    compile files('libs/notification-service.jar')
+    compile files('libs/notification-wiring.jar')
+    compile files('libs/osgi.core.jar')
+    compile files('libs/otr.jar')
+    compile files('libs/plugin-loggingutils.jar')
+    compile files('libs/protocol.jar')
+    compile files('libs/replacement.jar')
+    compile files('libs/resourcemanager.jar')
+    compile files('libs/sdes4j.jar')
+    compile files('libs/smack-sasl.jar')
+    compile files('libs/sysactivitynotifications.jar')
+    compile files('libs/systray-service.jar')
+    compile files('libs/ui-service.jar')
+    compile files('libs/updateservice.jar')
+    compile files('libs/util.jar')
+    compile files('libs/zrtp4j.jar')
+    compile 'org.litepal.android:core:1.5.1'
+    compile 'com.github.ithedan:CustomViewBgUi:v1.0'
+    compile 'com.labo.kaji:relativepopupwindow:0.3.1'
+    compile 'com.yanzhenjie:permission:1.0.8'
+    compile 'com.github.promeg:tinypinyin:2.0.3' // TinyPinyin核心包，约80KB
+    compile 'com.github.promeg:tinypinyin-lexicons-android-cncity:2.0.3' // 可选，适用于Android的中国地区词典
+    compile 'org.xutils:xutils:3.4.0'
+    compile 'com.kaopiz:kprogresshud:1.0.5'
+    compile 'com.google.code.gson:gson:2.8.0'
+}

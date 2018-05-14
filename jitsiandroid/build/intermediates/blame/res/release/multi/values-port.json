@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 54,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\values-port\\dimension.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 55,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    }
+]

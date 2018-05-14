@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_corrected_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_corrected_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_error_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_error_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\call_info.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\call_info.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\lv_header.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\request_authorization.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\request_authorization.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\call_contact.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\call_contact.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\account_list_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\account_list_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\encoding.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\encoding.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\cert_info.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\cert_info.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\call_phone_number_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\call_phone_number_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\stun_turn_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\stun_turn_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_conversation.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_conversation.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\received_call.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\received_call.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_outgoing_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_outgoing_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_system_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_system_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\presence_status.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\presence_status.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\clickable_toast.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\clickable_toast.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\create_group.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\create_group.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\call_ended.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\call_ended.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_account_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\select_account_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\account_enable_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\account_enable_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\progressbar.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\security_toggle_btn.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\security_toggle_btn.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\server_list_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\server_list_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_recording.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\fragment_contact_recording.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\zrtp_info_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\zrtp_info_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\authorization_requested.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\authorization_requested.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_account_dropdown.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\select_account_dropdown.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\otr_privkey_list_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\otr_privkey_list_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_incoming_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_incoming_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\new_account.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\new_account.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\otr_authenticate_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\otr_authenticate_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat_typing_area.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat_typing_area.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\add_contact.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\add_contact.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\credentials.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\credentials.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\encoding_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\encoding_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\video_call.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\video_call.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\main_view.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\main_view.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notifications_settings.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\notifications_settings.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\status_bar_call.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\status_bar_call.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\otr_fingerprint_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\otr_fingerprint_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\presence_status_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\presence_status_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\status_menu.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\status_menu.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\item_sort_listview.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\item_sort_listview.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\verify_certificate.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\verify_certificate.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_details.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\notification_details.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\account_list.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\account_list.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\contact_list.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\notification_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\status_menu_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\status_menu_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\screen_off.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\screen_off.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\view_topbar_yzx.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\view_topbar_yzx.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\sec_protocols_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\sec_protocols_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\contact_list_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\auth_window.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\auth_window.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window_del.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\popup_window_del.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_group_row.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\contact_list_group_row.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\jingle_node_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\jingle_node_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\audio_video_info.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\audio_video_info.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\volume_control.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\volume_control.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\tel_bottom_button_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\tel_bottom_button_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\move_to_group.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\move_to_group.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_call_phone.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\dialog_call_phone.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_spinner_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\dropdown_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\kprogresshud_hud.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.kaopiz\\kprogresshud\\1.0.5\\res\\layout\\kprogresshud_hud.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\server_list.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\layout\\server_list.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    }
+]

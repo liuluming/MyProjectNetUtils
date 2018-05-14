@@ -1,0 +1,726 @@
+[
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley8.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley8.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\hangup.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\hangup.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\typing1.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\typing1.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\drag.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\drag.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\video_call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\video_call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loadinglogo.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\loadinglogo.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loginbutton.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\loginbutton.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loginbackground.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\loginbackground.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_ffc.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_ffc.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_list_h_separator.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_list_h_separator.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_jabber_status.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\default_jabber_status.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_away.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_away.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callvideo.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callvideo.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley10.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley10.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_online.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_online.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callvolume.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callvolume.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_video_on.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_video_on.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\actionbaricon.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\actionbaricon.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_connecting.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_connecting.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_list_v_separator.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_list_v_separator.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_otp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_otp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\typing2.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\typing2.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\incoming_message.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\incoming_message.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\logoblue.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\logoblue.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_offline.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_offline.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\encrypted_unverified.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\encrypted_unverified.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley7.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley7.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\buttonseparator.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\buttonseparator.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_btn_off.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_btn_off.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_audio_off.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_audio_off.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_bar_show_call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_bar_show_call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\missed_call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\missed_call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messageholder.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\messageholder.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\personphoto.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\personphoto.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\whitefield.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\whitefield.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\menu.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messagearrowin.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\messagearrowin.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley11.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley11.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\addcontact.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\addcontact.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley20.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley20.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_away.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_away.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\cancel_edit.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\cancel_edit.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\video_call_selected.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\video_call_selected.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_logo.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_logo.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\action_item_selected.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\action_item_selected.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley13.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley13.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_dnd.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_dnd.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messagearrowout_correction.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\messagearrowout_correction.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley19.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley19.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_online.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_online.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\typing3.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\typing3.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\fade.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\fade.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_bar_mute.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_bar_mute.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_phone.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_phone.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_dnd.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_dnd.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\acceptvideocall.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\acceptvideocall.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\background.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\editing.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\editing.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_dnd.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_dnd.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messagearrowout.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\messagearrowout.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\incoming_call.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\incoming_call.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley9.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley9.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_offline.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_offline.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_ffc.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_ffc.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_xa.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_xa.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\whitespinner.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\whitespinner.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley3.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley3.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley6.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley6.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\arrow_up.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_ffc.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_ffc.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_connecting.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_connecting.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callhold.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callhold.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\chatseparator.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\chatseparator.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_audio_on.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_audio_on.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\encrypted_finished.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\encrypted_finished.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley2.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley2.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\avatar.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\avatar.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley15.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley15.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\search.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_off.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_off.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\encrypted_verified.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\encrypted_verified.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\corner.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\corner.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley1.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley1.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley16.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley16.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\send_message.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\send_message.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_offline.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_offline.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\global_otp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\global_otp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\popup.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\popup.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\arrow_down.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley4.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley4.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callhangup.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callhangup.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_bar_hangup.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_bar_hangup.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_online.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_online.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\collapsed.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\collapsed.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notificationicon.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\notificationicon.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\chatarrow.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\chatarrow.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callbutton.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callbutton.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\reset_editing.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\reset_editing.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley17.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley17.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_video_off.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_video_off.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley14.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley14.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\default_sip_status.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\default_sip_status.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callmicrophonemute.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callmicrophonemute.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley5.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley5.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley18.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley18.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_away.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_away.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callbuttonfull.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callbuttonfull.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\selectcallbuttonbackground.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\selectcallbuttonbackground.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\typing4.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\typing4.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\smiley12.gif",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\smiley12.gif"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\loginbuttonpressed.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\loginbuttonpressed.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\messageholder_correction.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\messageholder_correction.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_btn_on.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_btn_on.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_bar_speaker.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\status_bar_speaker.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\expanded.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\expanded.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_online.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_online.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_offline.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_offline.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\chatvideocall.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\chatvideocall.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\encrypted_unsecure.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\encrypted_unsecure.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\secure_on.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\secure_on.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callmicrophone.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callmicrophone.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_logo.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_logo.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_phone.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_phone.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\sip_status_busy.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\sip_status_busy.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\jabber_status_away.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\jabber_status_away.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\callmessage.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\callmessage.png"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\contact_call_selected.png",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\drawable-mdpi\\contact_call_selected.png"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <GridView
+        android:id="@+id/gv_phone_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:gravity="center_horizontal"
+        android:listSelector="@color/transparent"
+        android:cacheColorHint="@color/transparent"
+        android:verticalSpacing="8dp"
+        android:numColumns="3"></GridView>
+    <GridView
+        android:id="@+id/gv_bottom_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@color/transparent"
+        android:cacheColorHint="@color/transparent"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:numColumns="3">
+    </GridView>
+</LinearLayout>

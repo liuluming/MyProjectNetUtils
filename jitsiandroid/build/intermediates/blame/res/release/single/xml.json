@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\logging_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\logging_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\sip_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\sip_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\authenticator.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\dns_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\dns_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\acc_sip_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\acc_sip_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\acc_jabber_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\acc_jabber_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\proxy_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\proxy_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\security_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\security_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\silk_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\silk_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\provisioning_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\provisioning_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\acc_encoding_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\acc_encoding_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\account_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\account_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\opus_preferences.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\opus_preferences.xml"
+    },
+    {
+        "merged": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "D:\\APP\\XTXW_NEW\\02_Android\\CODE\\trunk\\STUDIO\\v1.0.0\\SynertoneSatnet\\jitsiandroid\\src\\main\\res\\xml\\searchable.xml"
+    }
+]
